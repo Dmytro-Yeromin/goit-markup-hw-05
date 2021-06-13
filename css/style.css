@@ -236,6 +236,8 @@ p {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.192;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .logotype-span {
   color: var(--accent-color);
